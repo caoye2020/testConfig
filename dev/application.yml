@@ -3,4 +3,4 @@ user:
   sex: 男
   age: 18
 server:
-  port: 9999
+  port: 8081
